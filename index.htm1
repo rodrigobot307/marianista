@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mi Colegio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f6f8;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #1e3a8a;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      background: white;
+    }
+    h2 {
+      color: #1e3a8a;
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      background: #e5e7eb;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Nombre de mi Colegio</h1>
+  <p>Educando para el futuro</p>
+</header>
+
+<section>
+  <h2>Sobre el colegio</h2>
+  <p>Aquí puedes escribir una descripción de tu colegio: cuándo se fundó, qué enseña y por qué es importante.</p>
+
+  <h2>Misión</h2>
+  <p>Nuestra misión es brindar una educación de calidad a todos los estudiantes.</p>
+
+  <h2>Visión</h2>
+  <p>Ser una institución reconocida por su excelencia académica.</p>
+
+  <h2>Contacto</h2>
+  <p>Dirección: ________</p>
+  <p>Teléfono: ________</p>
+</section>
+
+<footer>
+  <p>© 2025 Mi Colegio</p>
+</footer>
+
+</body>
+</html>
